@@ -1,0 +1,3 @@
+<?php
+filter_input(INPUT_POST,"USERNAME",FILTER_SANITIZE_SPECIAL_CHARS)
+?>
